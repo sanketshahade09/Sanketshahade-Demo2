@@ -1,2 +1,3 @@
 # Sanketshahade-Demo2
-This is My First  Git Repository  
+This is My First  Git Repository.
+Author - sanket shahade
